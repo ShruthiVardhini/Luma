@@ -1,4 +1,4 @@
 package Stepdefinitions;
 
-public class Login {
+public class LoginPage {
 }
